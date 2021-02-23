@@ -6,6 +6,9 @@
   "repository": "https://github.com/nextauthjs/next-auth.git",
   "author": "Iain Collins <me@iaincollins.com>",
   "main": "index.js",
+  "exports": {
+    "./errors": "./dist/lib/errors"
+  },
   "scripts": {
     "build": "npm run build:js && npm run build:css",
     "build:js": "babel --config-file ./config/babel.config.json src --out-dir dist",
