@@ -14,8 +14,6 @@ Please fill out the information below to expedite the review and (hopefully)
 merge of your pull request!
 -->
 
-<!-- What changes are being made? (What feature/bug is being fixed here?) -->
-
 ## Reasoning 💡
 
 <!-- What changes are being made? What feature/bug is being fixed here? -->
@@ -29,8 +27,6 @@ To check an item, place an `x` in the box like so: `- [x] Documentation`. -->
 - [ ] Documentation
 - [ ] Tests
 - [ ] Ready to be merged
-
-<!-- In your opinion, is this ready to be merged as soon as it's reviewed? -->
 
 ## Affected issues 🎟
 
