@@ -20,8 +20,8 @@ export default function WeChat(options) {
     async profile(profile) {
       return {
         id: profile.openid,
-        nickname: profile.nickname,
-        avatar: profile.headimgurl
+        name: profile.nickname,
+        image: profile.headimgurl,
       }
     },
     clientId: options.clientId,
